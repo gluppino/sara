@@ -1,0 +1,36 @@
+body {
+    background-color: teal;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    font-family: 'Stoke', serif;
+    font-size: 75px;
+    padding: 50px;
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    margin: 95px;
+}
+
+h2 {
+    font-family: 'Stoke', serif;
+    font-size: 45px;
+    display: flex;
+    justify-content: start;
+    padding-left: 75px;
+}
+
+img {
+    float: left;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+.sara {
+    display: flex;
+    justify-content: center;
+}
